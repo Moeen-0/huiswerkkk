@@ -1,0 +1,48 @@
+
+header, footer {
+    padding: 20px;
+    background-color: #333;
+    color: white;
+    text-align: center;
+}
+
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+
+td {
+    padding: 10px;
+    text-align: center;
+    border: 1px solid #ccc;
+}
+
+
+.word {
+    background-color: #ffcc00;
+}
+
+
+
+#cell2, #cell6, #cell10, #cell14 {
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#cell15 {
+    background-color: chartreuse;
+}
+
+#cell13{
+    background-color: violet;
+}
+#cell7{
+    background-color: darkblue;
+}
+#cell5{
+    background-color: orangered;
+}
